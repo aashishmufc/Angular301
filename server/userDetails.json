@@ -1,0 +1,253 @@
+{
+  "userDetails": {
+    "users": [
+      {
+        "uid": "101590852450539536978",
+        "name": "Punith Gowda N",
+        "image": "https://lh3.googleusercontent.com/a-/AAuE7mDVwHhauttwavwJycmv7PhK-GrdSwoCKLSytD21=s96-c",
+        "email": "hi@punith.me",
+        "role": "Admin",
+        "preferences": {
+          "lang": "en",
+          "generes": [],
+          "theaters": []
+        },
+        "ratings": {
+          "movieId": "",
+          "rating": ""
+        }
+      },
+      {
+        "uid": "112011073371985625063",
+        "name": "Punith N Gowda",
+        "image": "https://lh5.googleusercontent.com/-Qdhc-F8StnI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reuBr3hmoKh0QhCkQVkGDafyxpxuA/s96-c/photo.jpg",
+        "email": "punithgowdanpg@gmail.com",
+        "role": "Admin",
+        "preferences": {
+          "lang": "en",
+          "generes": "28",
+          "theaters": "Kapali"
+        },
+        "ratings": {
+          "movieId": "",
+          "rating": ""
+        }
+      },
+      {
+        "uid": "114702157280321063979",
+        "name": "aashish madan",
+        "image": "https://lh3.googleusercontent.com/a-/AAuE7mAS-dqwpz_PnRCLdi6SzquLbi9972JNey49qOiDWA=s96-c",
+        "email": "aashish.madan.1996@gmail.com",
+        "role": "Admin",
+        "preferences": {
+          "lang": "en",
+          "generes": [],
+          "theaters": []
+        },
+        "ratings": {
+          "movieId": "",
+          "rating": ""
+        }
+      }
+    ]
+  },
+  "theater": {
+    "theaters": [
+      {
+        "tid": "1",
+        "name": "Kapali",
+        "city": "Bangalore",
+        "gLocation": "test",
+        "capacity": 50,
+        "movies": [
+          330457
+        ]
+      },
+      {
+        "tid": "jklewq",
+        "name": "Test theatre",
+        "city": "Bangalore",
+        "gLocation": "https://google.com",
+        "capacity": 32,
+        "movies": [
+          330457
+        ]
+      }
+    ]
+  },
+  "userLogDetails": {
+    "LogDetails": [
+      {
+        "entryDate": "2019-11-25T06:14:05.211Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/416153/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:14:05.551Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/632899/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:56.314Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/412061/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:56.519Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/623780/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:56.750Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/524348/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:56.810Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/519106/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:56.866Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/515818/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:57.128Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/456529/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:57.337Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/614204/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:57.946Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/617773/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:58.448Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/586940/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:58.584Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/646108/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:17:59.026Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/544404/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:26:58.193Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/504949/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:26:59.194Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/522924/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:27:00.261Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/540158/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:27:01.184Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/78108/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:27:01.627Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/632346/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      },
+      {
+        "entryDate": "2019-11-25T06:27:01.800Z",
+        "message": "Http failure response for https://api.themoviedb.org/3/movie/565310/credits?api_key=c4f351490cb39722773a30b3347f2e0d: 429 Too Many Requests",
+        "level": 4,
+        "extraInfo": [
+          "stack"
+        ],
+        "logWithDate": true
+      }
+    ]
+  }
+}

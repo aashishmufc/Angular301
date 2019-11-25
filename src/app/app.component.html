@@ -1,0 +1,7 @@
+<div *ngIf="isLoading">Loading....</div>
+<div *ngIf="!isLoading" fxLayout="column">
+  <app-header></app-header>
+  <div class="container">
+    <router-outlet></router-outlet>
+  </div>
+</div>
